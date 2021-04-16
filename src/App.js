@@ -5,7 +5,7 @@ import Message from "./components/Message";
 import SearchBar from "./components/SearchBar";
 import LeftSideBar from "./components/LeftSidebar";
 import RightSideBar from "./components/RightSidebar";
-import SingleMessage from './components/SingleMessage';
+import SingleMessage from "./components/SingleMessage";
 import { Link, Route, Switch } from "react-router-dom";
 import './App.css';
 import "bootstrap/dist/css/bootstrap.css";
