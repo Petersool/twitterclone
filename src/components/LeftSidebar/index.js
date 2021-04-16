@@ -1,3 +1,5 @@
+import "./style.css";
+
 function LeftSidebar() {
   return (
     <div className="MessageList mb-5">
