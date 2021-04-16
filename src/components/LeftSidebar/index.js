@@ -1,4 +1,3 @@
-import "./style.css";
 import React from 'react';
 import './style.css';
 import TwitterIcon from '@material-ui/icons/Twitter';
